@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'LibreFranklin-Bold';
+    src: url(../fonts/LibreFranklin-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'LibreFranklin-Regular';
+    src: url(../fonts/LibreFranklin-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'SourceSerifPro-Regular';
+    src: url(../fonts/SourceSerifPro-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'TenorSans-Regular';
+    src: url(../fonts/TenorSans-Regular.ttf);
+}
